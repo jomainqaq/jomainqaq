@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning Knowledge Graph
 - 💞️ I’m looking to collaborate on Graph Attention Network
-- 📫 How to reach me NO
+- 📫 How to reach me NO...
 
 <!---
 jomainqaq/jomainqaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
